@@ -8,7 +8,7 @@ To use the plugin, simply include the jQuery library and the plugin script in yo
 
 ```html
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="jquery-plugin-template.js"></script>
+<script src="plugin.js"></script>
 ```
 
 ```javascript
