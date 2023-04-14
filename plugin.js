@@ -19,7 +19,7 @@
 		},
 		setText: function(text) {
 			$(this.element).text(text);
-            this.settings.text = text;
+            		this.settings.text = text;
 		}
 	});
 
