@@ -1,10 +1,10 @@
 (function($, window, document, undefined) {
 	"use strict";
 
-	var pluginName = "defaultPluginName",
-		defaults = {
-			text: "jQuery Boilerplate"
-		};
+	var pluginName = "defaultPluginName";
+	var defaults = {
+		text: "jQuery Boilerplate"
+	};
 
 	function Plugin(element, options) {
 		this.element = element;
