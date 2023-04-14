@@ -39,4 +39,3 @@ The plugin includes the following methods:
 ## License
 
 This plugin is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-```
